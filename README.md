@@ -67,6 +67,23 @@ Her gün belirlediğiniz hedefleri, büyüyen ve yeşeren bir "hedef ağacı" me
 <details>
     <summary><h2>Sprint 1</h2></summary>
 
+
+<details>
+    <summary><h2>Ürün Ekran Görüntüleri</h2></summary>
+  
+  * Bu sprintte tasarım ile ilgili bir çıktı/görsel bulunmamaktadır.
+  
+</details>
+
+<details>
+    <summary><h2>Sprint Board</h2></summary>
+  
+  * İlgili ürüne ait görsel ve sprint board çıktısı bu sprintte bulunmamaktadır.
+
+</details>
+
+---
+
 - **Sprint Notları:**
   * UI tasarımlarında _`Figma`_ ve `Canva` kullanılmasına karar verildi.
   * Proje yönetim aracı olarak _`Trello`_ kullanılmasına karar verildi.
@@ -89,7 +106,7 @@ Her gün belirlediğiniz hedefleri, büyüyen ve yeşeren bir "hedef ağacı" me
   * Sprint 1 fikir geliştirme ve hazırlık odaklı olduğu için görevlerin Trello üzerinden net takibi bu aşamada yapılamadı.
   * Sprint 2 itibariyle kart bazlı görev yönetimi ve takip süreci başlatılacak.
 
-- **Daily Scrum:** Görüşmeler _`Whatsapp`_ üzerinden gerçekleştirilmiştir.
+- **Daily Scrum:** [Sprint 1 Daily Scrum](/bootcamp-files/sprint-one/sprint1_daily_scrum/)
 
 - **Sprint Gözden Geçirme Katılımcıları:**
    * `Furkan ÇAMYAR, Yağız AYIK, Kübra YÖRÜK, Sudenaz KILIÇ`
@@ -99,6 +116,5 @@ Her gün belirlediğiniz hedefleri, büyüyen ve yeşeren bir "hedef ağacı" me
    * Prototip tam tamamlanamadı, fikir çokluğu nedeniyle önceliklendirme zordu.
    * Sprint 2’ye başlamadan önce görevleri küçük parçalara ayırıp Trello kartlarına dökülecek. Öncelikli modüller belirlenecek.
    * “Hedef ağacı” görselleştirme fikri ortak kararla benimsendi.
-   * Prototip taslağı üzerinde çalışılmaya başlandı (tamamlanamadı).
 
 </details>
