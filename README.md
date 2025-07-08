@@ -69,16 +69,16 @@ Her gün belirlediğiniz hedefleri, büyüyen ve yeşeren bir "hedef ağacı" me
 
 
 <details>
-    <summary><h2>Ürün Ekran Görüntüleri</h2></summary>
+    <summary><h2>App Screenshots</h2></summary>
   
-  * Bu sprintte tasarım ile ilgili bir çıktı/görsel bulunmamaktadır.
+  * Bu sprintte ilgili ürüne ait tasarıma yönelik herhangi bir çıktı/görsel bulunmamaktadır.
   
 </details>
 
 <details>
-    <summary><h2>Sprint Board</h2></summary>
+    <summary><h2>Project Management</h2></summary>
   
-  * İlgili ürüne ait görsel ve sprint board çıktısı bu sprintte bulunmamaktadır.
+  * Bu sprintte ilgili ürün için sprint board'da herhangi bir çıktı bulunmamaktadır.
 
 </details>
 
