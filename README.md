@@ -65,7 +65,7 @@ Her gün belirlediğiniz hedefleri, büyüyen ve yeşeren bir "hedef ağacı" me
 ![Sprints](/bootcamp-files/assets/headers/sprints.png)
 ---
 <details>
-    <summary><h2>Sprint 1</h2></summary>
+    <summary><h1>Sprint 1</h1></summary>
 
 
 <details>
