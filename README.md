@@ -55,9 +55,6 @@ Her gün belirlediğiniz hedefleri, büyüyen ve yeşeren bir "hedef ağacı" me
 - **Sınav Adayları:**
   * ALES, TYT, DGS gibi ulusal sınavlara hazırlanan; nereden başlayacağını bilemeyen, sistemli bir çalışma düzenine ihtiyaç duyan ve deneme sonuçlarını daha verimli analiz etmek isteyen adaylar.
   
-- **Öğrenciler:**
-  * Lise ve üniversite düzeyinde, okul derslerindeki eksiklerini tamamlamak, konuları pekiştirmek ve akademik başarısını artırmak isteyen öğrenciler.
-
 </details>
 
 ---
