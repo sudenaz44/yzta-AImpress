@@ -118,3 +118,57 @@ Her gün belirlediğiniz hedefleri, büyüyen ve yeşeren bir "hedef ağacı" me
    * “Hedef ağacı” görselleştirme fikri ortak kararla benimsendi.
 
 </details>
+
+---
+<details>
+  <summary><h1>Sprint 2</h1></summary>
+
+  ---
+
+<details>
+    <summary><h2>App Screenshots</h2></summary>
+
+  * Bu sprintte ilgili ürüne ait tasarıma yönelik herhangi bir çıktı/görsel bulunmamaktadır.
+
+  </details>
+
+---
+
+<details>
+  <summary><h2>Project Management</h2></summary>
+  
+  * Bu sprintte ilgili ürün için sprint board'da herhangi bir çıktı bulunmamaktadır.
+
+</details>
+
+---
+
+- **Sprint Notları:**
+  * Veri tabanı (Database) kısmı için `Google Cloud ` kullanılması kararlaştırıldı.
+
+- **Sprint İçinde Tamamlanması Beklenen Puan:**
+  * `40` Puan
+
+- **Puan Tamamlama Mantığı:**
+  * Toplamda `100` puanlık bir hedef belirlendi. Birinci sprintte `10` puan tamamlanmıştır. İkinci sprintte, kodların genel olarak tamamlanması istenilmiş `40` puan hedefi konulmuş ve bunun `20` puanı tamamlandı. Üçüncü sprintte ise, ikinci sprintten kalan `20` puan da eklenerek toplam `70` puanlık bir hedef belirlendi. Bu aşamada, kalan kodların tamamlanması ve entegrasyon çalışmalarının yapılması planlanmaktadır.
+  
+- **Sprint Gözden Geçirilmesi:**
+  * Örnek bir MVP oluşturmaya karar verildi.
+  * MVP’nin yalnızca tek bir sınav türü üzerine odaklanması kararlaştırıldı.
+  * MVP geliştirme süreci, ekip üyesi Sena Akar tarafından üstlenildi.
+  * Veri tabanı şeması üzerine fikir yürütüldü ve deneme sonuçlarını tutacak basit bir tablo yapısı belirlendi.
+  * Veri tabanı altyapısı için Google Cloud tercih edildi; GCP servisleriyle entegrasyon kolaylığı nedeniyle bu karar alındı.
+  * Hedef kitle ve ürün özellikleri üzerinde bazı daraltmalara gidilmesi kararlaştırıldı.
+
+- **Daily Scrum:** [Sprint 2 Daily Scrum](/bootcamp-files/sprint-two/sprint2_daily_scrum/)
+
+- **Sprint Gözden Geçirme Katılımcıları:**
+  * `Furkan Çamyar`
+
+- **Sprint Retrospektifi:**
+  * İki ekip arkadaşımızın cihazlarında yaşanan teknik sorunlar nedeniyle bazı görevlerin tamamlanamadı. Bu durum sprint planlamasını ve iş akışını etkiledi.
+  * Bir takım arkadaşımızın sınavı olduğu için sprintin bazı dönemlerinde takımın tamamına tam katılım sağlanamadı.
+  * Tasarım bölümünü MVP olarak tasarlamadık çünkü ürünün tam anlamıyla nasıl işleyeceği ve kullanıcı ihtiyaçları net olarak anlaşılmamıştı. Bu nedenle tasarım sürecine başlamadan önce ürünün kapsamının daha iyi belirlenmesi gerekti.
+  * Üç kez toplantı yapılarak ürün gereksinimleri detaylı şekilde tartışıldı ve netleştirildi. Database entegrasyonu ve arka uç API kısmı hakkında  konuşuldu, sorumlular belirlendi ancak henüz uygulanmadı.
+  
+</details>
