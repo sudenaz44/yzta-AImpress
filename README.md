@@ -52,7 +52,6 @@ Her gün belirlediğiniz hedefleri, büyüyen ve yeşeren bir "hedef ağacı" me
 <details>
     <summary><h2>Hedef Kitle </h2></summary>
 
-- **Sınav Adayları:**
   * ALES, TYT, DGS gibi ulusal sınavlara hazırlanan; nereden başlayacağını bilemeyen, sistemli bir çalışma düzenine ihtiyaç duyan ve deneme sonuçlarını daha verimli analiz etmek isteyen adaylar.
   
 </details>
@@ -141,7 +140,7 @@ Her gün belirlediğiniz hedefleri, büyüyen ve yeşeren bir "hedef ağacı" me
 ---
 
 - **Sprint Notları:**
-  * Veri tabanı (Database) kısmı için `Google Cloud ` kullanılması kararlaştırıldı.
+  * Veri tabanı (Database) kısmı için `Google Cloud` kullanılması kararlaştırıldı.
 
 - **Sprint İçinde Tamamlanması Beklenen Puan:**
   * `40` Puan
